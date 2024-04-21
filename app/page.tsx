@@ -5,6 +5,10 @@ export default function () {
   return (
     <main className={styles.main}>
       <h1>Kamol Travel</h1>
+      <h2>
+        175 Mott St <br/>
+        Oceanside NY 11572
+      </h2>
       <div className={styles.description}>
       
         <p>
@@ -14,7 +18,7 @@ export default function () {
       </div>
 
       <div className={styles.center}>
-        <h1>Kamolesh</h1>
+        <h1>Most reliable travel agents </h1>
       </div>
 
       
